@@ -1,5 +1,6 @@
 package lesson01;
 
+
 public class CheckArrayException extends Exception{
     public CheckArrayException(String msg) {
         super(msg);
